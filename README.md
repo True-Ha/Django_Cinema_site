@@ -28,7 +28,7 @@ python manage.py runserver
 ## Разработка
 #### 1) Поставить звездочку)
 #### 2) Клонировать репозиторий
-git clone https://github.com/True-Ha/Django_cinema_site.git
+git clone https://github.com/True-Ha/Django_Cinema_site.git
 
 #### 3) Создать виртуальное окружение
 cd kino_project

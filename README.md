@@ -17,14 +17,6 @@
 - Django >= 4.1.7
 - sqlite3
 
-Установка
-
-pip install req.txt
-
-Старт
-
-python manage.py runserver
-
 ## Разработка
 #### 1) Поставить звездочку)
 #### 2) Клонировать репозиторий
